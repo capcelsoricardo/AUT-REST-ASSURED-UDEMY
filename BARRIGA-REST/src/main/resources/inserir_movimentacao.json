@@ -1,0 +1,11 @@
+{
+    "conta_id": "40793",
+    "descricao": "Movimentação Feita pelo RestAssured",
+    "envolvido": "Envolvido",
+    "tipo": "REC",
+    "data_transacao": "18/11/2019",
+    "data_pagamento": "19/11/2019",
+    "valor": 1.27,
+    "status": true
+}
+
